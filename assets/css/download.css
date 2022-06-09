@@ -1,0 +1,184 @@
+
+.col-md-4{
+    max-width:500px !important;
+}
+.flex{
+    justify-content: space-between;
+}
+.col-md-8{
+    max-width:640px !important;
+}
+.background-svg{
+    position: static !important;
+    width:100%;
+}
+.extra{
+    padding:6rem 0;
+    max-width: 700px;
+}
+.jumbotrons{
+    padding:11rem 0rem;
+}
+.background-svg{
+    position:absolute !important;
+    top:10%;
+    width:110% !important;
+}
+.new-content{
+    position: relative;
+    left:0;
+    right:0;
+    padding-bottom: 5rem;
+    z-index: 1;
+}
+.new-content h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    text-transform: capitalize;
+}
+.container-content{
+    padding-top:5rem;
+}
+.download-card{
+    margin-top:3rem;
+}
+
+.d-list{
+    padding:0.8rem;
+}
+.new-content p{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    text-align: center;
+    color: #F2F2F2;
+}
+.windows-btn{
+    margin-left:-5px
+}
+.windows-btn a{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+}
+@media screen and (max-width:1023px) {
+    .m-v{
+        width:50% !important;
+    }
+    .windows-btn{
+        display: inline-grid;
+        gap:6%;
+        margin:0;
+    }
+    .v-b .btn {
+        text-transform: uppercase;
+        padding: 0.84rem 1.14rem !important;
+    }
+    .version{
+        justify-content: space-around !important;
+    }
+.sidebar{
+    margin-top:3rem;
+}
+}
+
+.download-img{
+    background-color: white;
+    border-radius: 7px;
+}
+.avatar-footer{
+    margin-top:5rem;
+}
+
+.download-list{
+    margin-top:4rem;
+}
+.version{
+    border-top:2px solid rgb(27, 27, 27);
+    border-bottom:2px solid rgb(49, 49, 49);
+    padding:1rem 1rem;
+    margin-bottom:3rem;
+}
+span .v1{
+    margin-left:20px;
+}
+.module p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-transform: capitalize;
+    color: #000000;
+    margin-bottom: 2.5rem;
+}
+.module .btn{
+    padding:1rem 0.2;
+    transition:0.4s;
+    border:1px solid black;
+    margin-right: 10px;
+    font-size: 18px;
+}
+.module .btn:hover{
+    background-color: #000000;
+    color:#fff;
+}
+.download-btn{
+    margin-top: 1rem;
+    border-radius:20px;
+}
+.download-btn a{
+    background-color: #000000;
+    font-family: 'Mulish';
+    display:block;
+    font-size: 16px;
+    line-height: 19px;
+    border-radius: 5px !important;
+    text-align: center;
+    color: #FFFFFF;
+    padding:15px 50px;
+    width:95%;
+}
+.version-list{
+    margin-top:3rem;
+}
+.badge-warning{
+    padding: 0.5rem;
+}
+.m-v{
+    display: inline-block;
+    width: 30%;
+}
+
+.v1 .v-b{
+    font-weight:300;
+}
+span .windows-btn {
+    margin-left: -4px;
+}
+
+.v-b{
+    width:200px;
+}
+.v-b .btn{
+    text-transform: uppercase;
+    padding: 0.84rem 2.14rem;
+    background: #020004;
+    border-radius: 4px;     
+    font-size: 0.81rem;
+    border: none;
+}
+.version-list-header{
+    background-color: #000000;
+    color: #ffffff;
+    padding:1.5rem;
+}
+.avatar-notice-header{
+    font-weight: 700;
+    font-size: 1.7em;
+}
